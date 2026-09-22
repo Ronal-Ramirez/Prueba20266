@@ -1,2 +1,14 @@
 # Prueba20266
 Prueba 2026
+# fase 1 Analisis
+fjñalskdfjñalsdkfjñasldkfjñalsjfñlskadjfñalsdkjfñlaskdjfñalskfjñlaskjfñlaskdfkajñsldkjfñalskdjfñlaskjfñlaksjfñlkasjñflkjasñlfkjalkfjñalskdfjñalskdjfaslkfjñalsdkfjalskjfalksjdfñlaksjfñlaksjfñlaksjdf.
+# Fase 2 Diagrama de Flujo
+lkejñlfkajñsdlkfjañsldkfjñalsdfjñalksfjñalkjfañlksjfñalkfñlakdfjñalkfjñlaksdfjalñkjfa
+# Fase 3 Codigo
+rlkejñaklsjfñlafalkfadfñlaksjfñlakjsfñlakdjfañdlfkl
+# Fase 4 Subida de Archivos a esta plataforma GitHub
+lkfñlaskjdñflajsñdlfiuaeñflkajdfñiajdñslfkjasñdlkfjaplsdfjñalkjfñalkdfjñalksdfj
+1. PDF del analisis
+2. JPG diagrama de Flujo
+3. Codigo estension py
+4. GitHub
